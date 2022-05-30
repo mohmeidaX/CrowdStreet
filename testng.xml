@@ -1,0 +1,7 @@
+<suite name="Suite">
+    <test name="Validating registration of a new User">
+        <classes>
+            <class name="LandingPage"/>
+        </classes>
+    </test>
+</suite>
